@@ -1,0 +1,10 @@
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.exe.config
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.exe
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\bin\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.pdb
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.csprojAssemblyReference.cache
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.FFormularioInicial.resources
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.Properties.Resources.resources
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.csproj.GenerateResource.cache
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.exe
+C:\Users\Douglas Orsino\Desktop\csharp-examples\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI\obj\Debug\AcademiaDotNet.ProjetoExemplo.WindowsForms.UI.pdb
